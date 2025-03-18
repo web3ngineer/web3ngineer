@@ -1,4 +1,4 @@
-### Hi there 👋  
+# Hi there 👋  
 <h1> I'm Shivam Singh</h1>  
 <!-- <p align="left">Hey, Myself Shivam Singh,<br/>   -->
   A passionate Learner and Code Feeder.  
@@ -37,7 +37,7 @@
 
 ### 🛠️ Languages and Tools  
 <p align="left">  
-  <img width="400px" src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,redux,tailwind,nodejs,nextjs,express,mongo,mysql,postgres,sqlite,git,github,vscode,postman,linux,bash,aws,docker,nginx&perline=10" />  
+  <img width="100%" src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,react,redux,tailwind,nodejs,nextjs,express,mongo,mysql,postgres,sqlite,git,github,vscode,postman,linux,bash,aws,docker,nginx&perline=20" />  
 </p>  
 
 ---
@@ -45,12 +45,12 @@
 ### 📫 Connect With Me  
 <p align="left">  
   <a href="https://x.com/web3ngineer" target="_blank">
-    <img align="center" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=twitter" alt="web3ngineer" />
+    <img align="center" width="40px" style="padding-right:20px;" src="https://skillicons.dev/icons?i=twitter" alt="web3ngineer" />
   </a>  
   <a href="https://instagram.com/web3ngineer" target="_blank">
-    <img align="center" width="30px" style="padding-right:10px" src="https://skillicons.dev/icons?i=instagram" alt="web3ngineer" />
+    <img align="center" width="40px" style="padding-right:20px" src="https://skillicons.dev/icons?i=instagram" alt="web3ngineer" />
   </a>  
   <a href="https://www.linkedin.com/in/web3ngineer/" target="_blank">
-    <img align="center" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linkedin" />
+    <img align="center" alt="LinkedIn" width="40px" style="padding-right:20px;" src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
 </p>  
